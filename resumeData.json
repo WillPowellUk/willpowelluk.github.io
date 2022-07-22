@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Will Powell",
+    "occupation": "Soon to be mechanical and electrical engineer.",
+    "description": "",
+    "image": "ProfileNoBackground.png",
+    "bio": "I am currently studying Mechanical and Electrical Engineering at the University of Bath. This website showcases my engineering and programming projects - like this one.",
+    "contactmessage": "Contact me via email: ",
+    "email": "me@willpowell.uk",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "phone": "(+44) 7741 457169",
+    "website": "willpowell.uk",
+    "resumedownload": "files/William-Powell-CV.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/william-f-powell/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/willpowelluk",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCIZGeka3qGytWd5Qf2cm9yA/videos",
+        "className": "fa fa-youtube"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University Of Bath",
+        "degree": "Bachelors in Integrated Mechanical and Electrical Engineering",
+        "graduated": "July 2022 - Present",
+        "description": ""
+      },
+      {
+        "school": "Sevenoaks School",
+        "degree": "International Baccalaureate (IB)",
+        "graduated": "May 2019",
+        "description": "Higher Level: Maths, Physics and Biology. Standard Level: Russian, Psychology, Literature and Performance"
+      }
+    ],
+    "work": [
+      {
+        "company": "AB Dynamics",
+        "title": "Software Engineer Intern",
+        "years": "September 2021 - Present",
+        "description": "AB Dynamics is an automotive testing company, with a vast range of products from steering robots to driving simulators. I joined as a software engineer, where I immediately identified the vast potential for using vestibular stimulation on the static driving simulator that could emulate dynamic motion. After the approval for a feasibility study, I integrated the simulator's environment with BrainPatch's stimulators with the driving simulators to create the sensation of roll and yaw. I am currently developing this system and hope to conduct a formal experiment shortly."
+      },
+      {
+        "company": "BrainPatch",
+        "title": "Product Development Intern",
+        "years": "June 2021 - August 2021",
+        "description": "BrainPatch is a cutting edge neurotech start-up who aim to create an appstore for the brain. Working alongside the CTO, I assembled and tested a prototype circuit that will be used in their upcoming headsets to stimulate the vestibular system. I then went on to design an analogue backend sensor for EEG/ECG recording. This involved writing to an ADC over SPI, programming the microcontroller in C++, using Python to control the sensor over a remote TCP connection, and designing the electronics and PCB. The first prototype EEG/ECG sensor is soon to be tested and I will continue to work on its development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "PCB Design",
+        "level": "70%"
+      },
+      {
+        "name": "CAD",
+        "level": "60%"
+      },
+      {
+        "name": "C / C++",
+        "level": "80%"
+      },
+      {
+        "name": "MATLAB",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Web Dev",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "PhoneCave",
+        "category": "My first start-up. Check out its website.",
+        "image": "images/PhoneCave.png",
+        "url": "https://will63powell.wixsite.com/phonecave"
+      },
+      {
+        "title": "Chess AI",
+        "category": "Building a Chess Engine with AI in Python. Optimised using alpha and beta pruning.",
+        "image": "images/ChessAIDemoR.jpg",
+        "url": "https://github.com/willpowelluk/Chess-AI-with-Pruning"
+      },
+      {
+        "title": "Space Shuttle Tile",
+        "category": "Calculating the minimum tile thickness of a heat resistant tile during re-entry to earth's atmosphere. Investigation into numerical approximation methods derived from Partial Differential Equations. Modelling and GUI written in MATLAB. ",
+        "image": "images/SpaceShuttle.jpg",
+        "url": "files/Modelling Techniques 2 Report.pdf"
+      },
+      {
+        "title": "Closed Loop Control of an Automated Vehicle",
+        "category": "This report shows the design and simulation of a closed loop system in controlling a vehicle's lateral position. ",
+        "image": "images/PeakDetector.png",
+        "url": "files/Control Systems Report.pdf"
+      }
+    ]
+  }
+}
