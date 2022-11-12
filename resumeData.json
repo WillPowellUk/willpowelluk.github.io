@@ -51,16 +51,22 @@
     ],
     "work": [
       {
+        "company": "BrainPatch",
+        "title": "Product Development Contractor",
+        "years": "Commenced June 2021",
+        "description": "BrainPatch is a cutting edge neurotech start-up who aim to create an appstore for the brain. After a previous internship working alongside the CTO to assemble and test a prototype circuit that will be used for vestibular stimulation, I then went on to design an wireless EEG/ECG recording device. This involved writing firmware in C++ to remotely record and stream data to a server and subsequently web-app written in Python. I also developed the electronics and PCB for this device. I cannot detail further as BrainPatch is filing for a patent on this design. I am continuing to work on its development, alongside other contracted work."
+      },
+      {
         "company": "AB Dynamics",
         "title": "Software Engineer Intern",
         "years": "September 2021 - August 2022",
-        "description": "AB Dynamics is an automotive testing company, with a vast range of products from steering robots to driving simulators. I joined as a software engineer, where I immediately identified the vast potential for using vestibular stimulation on the static driving simulator that could emulate dynamic motion. After the approval for a feasibility study, I integrated the simulator's environment with BrainPatch's stimulators with the driving simulators to create the sensation of roll and yaw. I am currently developing this system and hope to conduct a formal experiment shortly."
+        "description": "AB Dynamics is an automotive testing company, with a vast range of products from steering robots to driving simulators. I joined as a software engineer, where I immediately identified the vast potential for using vestibular stimulation on the static driving simulator that could emulate dynamic motion. After the approval for a feasibility study, I integrated the simulator's environment with BrainPatch's stimulators with the driving simulators to create the sensation of roll, pitch and yaw. I worked closely with the embedded team, writing C++ for both the stimulator’s firmware and the server software. I am continuing to research vestibular stimulation for emulating motion and will be collaborating with UCL’s Department of Psychological Sciences next month."
       },
       {
-        "company": "BrainPatch",
-        "title": "Product Development Intern",
-        "years": "June 2021 - August 2021",
-        "description": "BrainPatch is a cutting edge neurotech start-up who aim to create an appstore for the brain. Working alongside the CTO, I assembled and tested a prototype circuit that will be used in their upcoming headsets to stimulate the vestibular system. I then went on to design an analogue backend sensor for EEG/ECG recording. This involved writing to an ADC over SPI, programming the microcontroller in C++, using Python to control the sensor over a remote TCP connection, and designing the electronics and PCB. The first prototype EEG/ECG sensor is soon to be tested and I will continue to work on its development."
+        "company": "PhoneCave",
+        "title": "Founder and CEO",
+        "years": "Commenced November 2019",
+        "description": "After being frustrated with my friends' (and my own) obsession with smartphones, I created a start-up, PhoneCave, that aims to get people off their phones. I wanted to design a gadget that can be used for social situations, to have conversations without distractions, to improve productivity and mindfulness. PhoneCave is a simple idea - a lock box for your phone, keeping it out of reach for as long as you set it. I learnt enormously from starting this business – greatly improving my programming (firmware written in C++), CAD skills, electronics and PCB design. I also learnt new skills like 3d printing manufacturing, web design and marketing. PhoneCave has also increased my entrepreneurial grit. There were an enormous number of problems to overcome, crucially finding suppliers to cut costs and streamlining manufacturing. I have shipped PhoneCaves to over 10 countries worldwide, held a promotional campaign on kickstarter and seeked investors. This startup is on hold, as it requires significant funding for injection moulding."
       }
     ],
     "skills": [
@@ -92,6 +98,11 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "EEG Recording Device",
+        "category": "Contracted for BrainPatch. Currently being filed for a patent so cannot detail further.",
+        "image": "images/EEGRecordingDevice.png"
+      },
       {
         "title": "PhoneCave",
         "category": "My first start-up. Check out its website.",
