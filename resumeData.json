@@ -101,7 +101,8 @@
       {
         "title": "EEG Recording Device",
         "category": "Contracted for BrainPatch. Currently being filed for a patent so cannot detail further.",
-        "image": "images/EEGRecordingDevice.png"
+        "image": "images/EEGRecordingDevice.png",
+        "url": "https://brainpatch.ai"
       },
       {
         "title": "PhoneCave",
