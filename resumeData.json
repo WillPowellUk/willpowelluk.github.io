@@ -122,7 +122,7 @@
       },
       {
         "title": "Chess AI",
-        "category": "Building a Chess Engine with AI in Python. Optimised using alpha and beta pruning.",
+        "category": "Building a Chess Engine with AI in Python. Using Minimax Recursion, Negamax and Alpha Beta Pruning for computational optimisation.",
         "image": "images/ChessAIDemoR.jpg",
         "url": "https://github.com/willpowelluk/Chess-AI-with-Pruning"
       },
