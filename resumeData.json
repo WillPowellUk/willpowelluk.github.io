@@ -53,7 +53,7 @@
       {
         "company": "BrainPatch",
         "title": "Product Development Contractor",
-        "years": "Commenced June 2021",
+        "years": "June 2021 - Present",
         "description": "BrainPatch is a cutting edge neurotech start-up who aim to create an appstore for the brain. After a previous internship working alongside the CTO to assemble and test a prototype circuit that will be used for vestibular stimulation, I then went on to design a wireless EEG/ECG recording device. This involved writing firmware in C++ to remotely record and stream data to a server and subsequently web-app written in Python. I also developed the electronics and PCB for this device. I cannot detail further as BrainPatch is filing for a patent on this design. I am continuing to work on its development, alongside other contracted work."
       },
       {
@@ -65,7 +65,7 @@
       {
         "company": "PhoneCave",
         "title": "Founder and CEO",
-        "years": "Commenced November 2019",
+        "years": "November 2019 - September 2020",
         "description": "After being frustrated with my friends' (and my own) obsession with smartphones, I created a start-up, PhoneCave, that aims to get people off their phones. I wanted to design a gadget that can be used for social situations, to have conversations without distractions, to improve productivity and mindfulness. PhoneCave is a simple idea - a lock box for your phone, keeping it out of reach for as long as you set it. I learnt enormously from starting this business – greatly improving my programming (firmware written in C++), CAD skills, electronics and PCB design. I also learnt new skills like 3d printing manufacturing, web design and marketing. PhoneCave has also increased my entrepreneurial grit. There were an enormous number of problems to overcome, crucially finding suppliers to cut costs and streamlining manufacturing. I have shipped PhoneCaves to over 10 countries worldwide, held a promotional campaign on kickstarter and seeked investors. This startup is on hold, as it requires significant funding for injection moulding."
       }
     ],
