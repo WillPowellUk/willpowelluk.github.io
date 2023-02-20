@@ -155,7 +155,14 @@
         "category": "This website was designed for the University of Bath Architecture Magazine, Paperspace.",
         "image": "images/Paperspace.png",
         "url": "https://paperspacemagazine.github.io/Website/"
+      },
+      {
+        "title": "Project built for the STM32 using MBED-OS",
+        "category": "Since most of my projects are kept under the hood in private repositories, I thought I'd share this Uni project which doesn't have any NDAs.",
+        "image": "images/MBED-OS.png",
+        "url": "https://github.com/WillPowellUk/MBED-Fan-Controller"
       }
+      
     ]
   }
 }
