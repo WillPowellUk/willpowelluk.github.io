@@ -8,10 +8,10 @@
     "contactmessage": "Contact me via email: ",
     "email": "me@willpowell.uk",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Highstreet",
+      "city": "Sevenoaks",
+      "state": "Kent",
+      "zip": "TN15"
     },
     "phone": "(+44) 7741 457169",
     "website": "willpowell.uk",
@@ -39,7 +39,7 @@
       {
         "school": "University Of Bath",
         "degree": "Bachelors in Integrated Mechanical and Electrical Engineering",
-        "graduated": "July 2022 - Present",
+        "graduated": "September 2019 - Present",
         "description": ""
       },
       {
