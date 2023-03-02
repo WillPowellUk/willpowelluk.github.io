@@ -7,6 +7,13 @@
     "bio": "I am currently studying Mechanical and Electrical Engineering at the University of Bath. This website showcases my engineering and programming projects - like this one.",
     "contactmessage": "Contact me via email: ",
     "email": "me@willpowell.uk",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "phone": "(+44) 7741 457169",
     "website": "willpowell.uk",
     "resumedownload": "files/William Powell CV.pdf",
     "social": [
@@ -32,7 +39,7 @@
       {
         "school": "University Of Bath",
         "degree": "Bachelors in Integrated Mechanical and Electrical Engineering",
-        "graduated": "September 2019 - Present",
+        "graduated": "July 2022 - Present",
         "description": ""
       },
       {
