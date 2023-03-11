@@ -32,6 +32,11 @@
         "url": "https://www.youtube.com/channel/UCIZGeka3qGytWd5Qf2cm9yA/videos",
         "className": "fa fa-youtube"
       }
+      {
+        "name": "photography",
+        "url": "https://photography.willpowell.uk/",
+        "className": "fa fa-camera"
+      }
     ]
   },
   "resume": {
