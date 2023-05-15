@@ -108,10 +108,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "EEG Recording Device",
-        "category": "Contracted for BrainPatch. Currently being filed for a patent so cannot detail further.",
+        "title": "EEG Recording Device with Machine Learning for Stress Classification.",
+        "category": "My Bachelor's Dissertation: Design and Implementation of a Single-Lead Chest Strap ECG Recorder for Stress Classification using Machine Learning Methods.",
         "image": "images/EEGRecordingDevice.png",
-        "url": "https://brainpatch.ai"
+        "url": "files/bachelorsDissertation.pdf"
       },
       {
         "title": "PhoneCave",
