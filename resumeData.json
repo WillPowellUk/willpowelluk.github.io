@@ -59,7 +59,7 @@
         "company": "BrainPatch",
         "title": "Product Development Contractor",
         "years": "June 2021 - Present",
-        "description": "BrainPatch is a cutting edge neurotech start-up who aim to create an appstore for the brain. After a previous internship working alongside the CTO to assemble and test a prototype circuit that will be used for vestibular stimulation, I then went on to design a wireless EEG/ECG recording device. This involved writing firmware in C++ to remotely record and stream data to a server and subsequently web-app written in Python. I also developed the electronics and PCB for this device. I cannot detail further as BrainPatch is filing for a patent on this design. I am continuing to work on its development, alongside other contracted work."
+        "description": "BrainPatch is a cutting edge neurotech start-up who aim to create an appstore for the brain. After a previous internship working alongside the CTO to assemble and test a prototype circuit that will be used for vestibular stimulation, I went on to design a wireless EEG/ECG recording device. This involved writing firmware in C++ to remotely record and stream data to a server and subsequently web-app written in Python. I also developed the electronics and PCB for this device. Subsequently, this device was used to detect stress through machine learning methods in my Final Year Project."
       },
       {
         "company": "AB Dynamics",
