@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Will Powell",
-    "occupation": "Soon to be mechanical and electrical engineer.",
-    "description": "",
+    "occupation": "Mechanical and electrical engineer.",
+    "description": "Boobs.",
     "image": "ProfileNoBackground.png",
-    "bio": "I am currently studying Mechanical and Electrical Engineering at the University of Bath. This website showcases my engineering and programming projects - like this one.",
+    "bio": "I am currently studying Applied Machine Learning at Imperial College London. This website showcases my engineering and programming projects - like this one.",
     "contactmessage": "Contact me via email: ",
     "email": "me@willpowell.uk",
     "address": {
@@ -44,14 +44,14 @@
       {
         "school": "University Of Bath",
         "degree": "Bachelors in Integrated Mechanical and Electrical Engineering",
-        "graduated": "September 2019 - Present",
-        "description": ""
+        "graduated": "September 2019 - June 2023",
+        "description": "First Class Honours with 75% overall. See the Portfolio section for my dissertation."
       },
       {
         "school": "Sevenoaks School",
         "degree": "International Baccalaureate (IB)",
-        "graduated": "May 2019",
-        "description": "Higher Level: Maths, Physics and Biology. Standard Level: Russian, Psychology, Literature and Performance"
+        "graduated": "September 2017 - May 2019",
+        "description": "37 Points Overall with Higher Levels: Maths, Physics and Biology and Standard Levels: Russian, Psychology, Literature and Performance."
       }
     ],
     "work": [
