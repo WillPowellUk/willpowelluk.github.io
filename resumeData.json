@@ -41,6 +41,12 @@
   "resume": {
     "education": [
       {
+        "school": "Imperial College London",
+        "degree": "Masters in Applied Machine Learning",
+        "graduated": "September 2023 - Present",
+        "description": ""
+      },
+      {
         "school": "University Of Bath",
         "degree": "Bachelors in Integrated Mechanical and Electrical Engineering",
         "graduated": "September 2019 - June 2023",
