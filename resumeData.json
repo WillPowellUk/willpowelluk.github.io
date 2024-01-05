@@ -135,6 +135,12 @@
         "url": "files/Enhancing_the_Realism_of_Driving_Simulators_using_Galvanic_Vestibular_Stimulation_Motion_Cueing.pdf"      
       },
       {
+        "title": "Design of a Self-Organising Multi-Agent System",
+        "category": "Working alongside 40+ students, I helped to lead the infrastructure team to design an environment for a Self-Organising Multi-Agent system to operate in, written in Go.",
+        "image": "images/SOMAS.jpg",
+        "url": "https://github.com/SOMAS2023/SOMAS2023"      
+      },
+      {
         "title": "Chess AI",
         "category": "Building a Chess Engine with AI in Python. Using Minimax Recursion, Negamax and Alpha Beta Pruning for computational optimisation.",
         "image": "images/ChessAIDemoR.jpg",
