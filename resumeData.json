@@ -165,16 +165,16 @@
         "url": "files/Why the Electrification of Vehicles Holds a Large Threat for the Survival of Legacy Automotive Companies.pdf"
       },
       {
-        "title": "Another website I designed",
-        "category": "This website was designed for the University of Bath Architecture Magazine, Paperspace.",
-        "image": "images/Paperspace.png",
-        "url": "https://paperspacemagazine.com"
-      },
-      {
         "title": "DoorDash Labs - Robotics and Automation of Home Deliveries",
         "category": "DoorDash is an impressive company. Started by 4 Staford Grads in 2013 this country now has a market cap of $24Bn. DoorDash is a perfect demonstrator of how to scale a buisness. I am intrigued what their new robots division, DoorDash Labs, will do for the company.",
         "image": "images/DOORDASH.png",
         "url": "files/DoorDash Labs - Robotics and Automation of Home Deliveries.pdf"
+      },
+      {
+        "title": "Another website I designed",
+        "category": "This website was designed for the University of Bath Architecture Magazine, Paperspace.",
+        "image": "images/Paperspace.png",
+        "url": "https://paperspacemagazine.com"
       }
     ]
   }
