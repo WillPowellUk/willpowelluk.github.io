@@ -135,16 +135,28 @@
         "url": "files/Enhancing_the_Realism_of_Driving_Simulators_using_Galvanic_Vestibular_Stimulation_Motion_Cueing.pdf"      
       },
       {
-        "title": "Design of a Self-Organising Multi-Agent System",
-        "category": "Working alongside 40+ students, I helped to lead the infrastructure team to design an environment for a Self-Organising Multi-Agent system to operate in, written in Go.",
-        "image": "images/SOMAS.jpg",
-        "url": "https://github.com/SOMAS2023/SOMAS2023"      
+        "title": "Chess AI",
+        "category": "Building a Chess Engine with AI in Python. Using Minimax Recursion, Negamax and Alpha Beta Pruning for computational optimisation.",
+        "image": "images/ChessAIDemoR.jpg",
+        "url": "https://github.com/willpowelluk/Chess-AI-with-Pruning"
       },
       {
         "title": "Space Shuttle Tile",
         "category": "Calculating the minimum tile thickness of a heat resistant tile during re-entry to earth's atmosphere. Investigation into numerical approximation methods derived from Partial Differential Equations. Modelling and GUI written in MATLAB. ",
         "image": "images/SpaceShuttle.jpg",
         "url": "files/Modelling Techniques 2 Report.pdf"
+      },
+      {
+        "title": "Design of a Self-Organising Multi-Agent System",
+        "category": "Working alongside 40+ students, I helped to lead the infrastructure team to design an environment for a Self-Organising Multi-Agent system to operate in, written in Go.",
+        "image": "images/SOMAS.jpg",
+        "url": "https://github.com/SOMAS2023/SOMAS2023"      
+      },
+      {
+        "title": "Project built for the STM32 using MBED-OS",
+        "category": "Since most of my projects are kept under the hood in private repositories, I thought I'd share this Uni project which doesn't have any NDAs.",
+        "image": "images/MBED-OS.png",
+        "url": "https://github.com/WillPowellUk/MBED-Fan-Controller"
       },
       {
         "title": "Why the Electrification of Vehicles Holds a Large Threat for the Survival of Legacy Automotive Companies",
@@ -163,12 +175,6 @@
         "category": "This website was designed for the University of Bath Architecture Magazine, Paperspace.",
         "image": "images/Paperspace.png",
         "url": "https://paperspacemagazine.com"
-      },
-      {
-        "title": "Project built for the STM32 using MBED-OS",
-        "category": "Since most of my projects are kept under the hood in private repositories, I thought I'd share this Uni project which doesn't have any NDAs.",
-        "image": "images/MBED-OS.png",
-        "url": "https://github.com/WillPowellUk/MBED-Fan-Controller"
       }
     ]
   }
