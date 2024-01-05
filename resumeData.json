@@ -141,12 +141,6 @@
         "url": "https://github.com/SOMAS2023/SOMAS2023"      
       },
       {
-        "title": "Chess AI",
-        "category": "Building a Chess Engine with AI in Python. Using Minimax Recursion, Negamax and Alpha Beta Pruning for computational optimisation.",
-        "image": "images/ChessAIDemoR.jpg",
-        "url": "https://github.com/willpowelluk/Chess-AI-with-Pruning"
-      },
-      {
         "title": "Space Shuttle Tile",
         "category": "Calculating the minimum tile thickness of a heat resistant tile during re-entry to earth's atmosphere. Investigation into numerical approximation methods derived from Partial Differential Equations. Modelling and GUI written in MATLAB. ",
         "image": "images/SpaceShuttle.jpg",
@@ -175,7 +169,13 @@
         "category": "Since most of my projects are kept under the hood in private repositories, I thought I'd share this Uni project which doesn't have any NDAs.",
         "image": "images/MBED-OS.png",
         "url": "https://github.com/WillPowellUk/MBED-Fan-Controller"
-      }      
+      },
+      {
+        "title": "Chess AI",
+        "category": "Building a Chess Engine with AI in Python. Using Minimax Recursion, Negamax and Alpha Beta Pruning for computational optimisation.",
+        "image": "images/ChessAIDemoR.jpg",
+        "url": "https://github.com/willpowelluk/Chess-AI-with-Pruning"
+      }
     ]
   }
 }
