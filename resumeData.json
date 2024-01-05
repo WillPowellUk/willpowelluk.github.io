@@ -166,7 +166,9 @@
       },
       {
         "title": "",
-        "image": "images/transparent.png"
+        "category": "",
+        "image": "images/transparent.png",
+        "url":""
       },
       {
         "title": "DoorDash Labs - Robotics and Automation of Home Deliveries",
