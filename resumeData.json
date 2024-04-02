@@ -14,7 +14,7 @@
     },
     "phone": "(+44) 7741 457169",
     "website": "willpowell.uk",
-    "resumedownload": "files/William Powell CV.pdf",
+    "resumedownload": "files/William_Powell_CV.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -70,7 +70,7 @@
         "company": "AB Dynamics",
         "title": "Software Engineer Intern",
         "years": "September 2021 - August 2022",
-        "description": "AB Dynamics is an automotive testing company, with a vast range of products from steering robots to driving simulators. I joined as a software engineer and was the embedded lead for a new MISRA compliant product. This involved processing real-time automotive data using CAN and writing drivers, in C++, for the various peripherals of the STM32 microcontroller. Additionally, to this project, I identified the vast potential for using vestibular stimulation on the static driving simulator that could emulate dynamic motion. After the approval for a feasibility study, I integrated the simulator's environment with BrainPatch's stimulators with the driving simulators to create the sensation of rotational forces. I worked closely with the embedded team, writing C++ for both the stimulator’s firmware and the server software. I am continuing to research vestibular stimulation for emulating motion and will be collaborating with Birkbeck’s Department of Psychological Sciences next month."
+        "description": "AB Dynamics is an automotive testing company, with a vast range of products from steering robots to driving simulators. I joined as a software engineer and was the embedded lead for a new MISRA compliant product. This involved processing real-time automotive data using CAN and writing drivers, in C++, for the various peripherals of the STM32 microcontroller. Additionally, to this project, I identified the vast potential for using vestibular stimulation on the static driving simulator that could emulate dynamic motion. After the approval for a feasibility study, I integrated the simulator's environment with BrainPatch's stimulators with the driving simulators to create the sensation of rotational forces. I worked closely with the embedded team, writing C++ for both the stimulator’s firmware and the server software. I am continuing to research vestibular stimulation for emulating motion."
       },
       {
         "company": "PhoneCave",
@@ -147,10 +147,28 @@
         "url": "files/Modelling Techniques 2 Report.pdf"
       },
       {
+        "title": "Design of a Self-Organising Multi-Agent System",
+        "category": "Working alongside 40+ students, I helped to lead the infrastructure team to design an environment for a Self-Organising Multi-Agent system to operate in, written in Go.",
+        "image": "images/SOMAS.jpg",
+        "url": "https://github.com/SOMAS2023/SOMAS2023"      
+      },
+      {
+        "title": "Project built for the STM32 using MBED-OS",
+        "category": "Since most of my projects are kept under the hood in private repositories, I thought I'd share this Uni project which doesn't have any NDAs.",
+        "image": "images/MBED-OS.png",
+        "url": "https://github.com/WillPowellUk/MBED-Fan-Controller"
+      },
+      {
         "title": "Why the Electrification of Vehicles Holds a Large Threat for the Survival of Legacy Automotive Companies",
         "category": "My reasoning as to why electrification may be the grand reset for the automotive market.",
         "image": "images/EV.png",
         "url": "files/Why the Electrification of Vehicles Holds a Large Threat for the Survival of Legacy Automotive Companies.pdf"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "images/transparent.png",
+        "url":""
       },
       {
         "title": "DoorDash Labs - Robotics and Automation of Home Deliveries",
@@ -163,13 +181,7 @@
         "category": "This website was designed for the University of Bath Architecture Magazine, Paperspace.",
         "image": "images/Paperspace.png",
         "url": "https://paperspacemagazine.com"
-      },
-      {
-        "title": "Project built for the STM32 using MBED-OS",
-        "category": "Since most of my projects are kept under the hood in private repositories, I thought I'd share this Uni project which doesn't have any NDAs.",
-        "image": "images/MBED-OS.png",
-        "url": "https://github.com/WillPowellUk/MBED-Fan-Controller"
-      }      
+      }
     ]
   }
 }
