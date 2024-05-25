@@ -64,7 +64,7 @@
         "company": "BrainPatch",
         "title": "Product Development Contractor",
         "years": "June 2021 - Present",
-        "description": "BrainPatch is a cutting edge neurotech start-up who aim to create an appstore for the brain. After a previous internship working alongside the CTO to assemble and test a prototype circuit that will be used for vestibular stimulation, I went on to design a wireless EEG/ECG recording device. This involved writing firmware in C++ to remotely record and stream data to a server and subsequently web-app written in Python. I also developed the electronics and PCB for this device. Subsequently, this device was used to detect stress through machine learning methods in my Final Year Project."
+        "description": "BrainPatch is a cutting edge neurotech start-up who aim to create an appstore for the brain. Throughout my work there I have assembled and tested a prototype PCB that will be used in a commercial brain stimulation device. Designed the circuitry, firmware and software to wirelessly stream EEG/ECG recording device to the cloud and web interface in real time. The device used in trials for monitoring the real-time participant biosensing information remotely. Repurposed this device for stress detection using a supervised machine learning pipeline (traditional and deep learning) methods and currently aim to commercialize this idea for a consumer product."
       },
       {
         "company": "AB Dynamics",
@@ -81,12 +81,12 @@
     ],
     "skills": [
       {
-        "name": "PCB Design",
+        "name": "Python",
         "level": "70%"
       },
       {
-        "name": "CAD",
-        "level": "60%"
+        "name": "TensorFlow / Pytorch",
+        "level": "75%"
       },
       {
         "name": "C / C++ / Go",
@@ -97,14 +97,6 @@
         "level": "60%"
       },
       {
-        "name": "Python",
-        "level": "70%"
-      },
-      {
-        "name": "TensorFlow / Pytorch",
-        "level": "60%"
-      },
-      {
         "name": "Web Dev (JS/ReactJS/HTML)",
         "level": "50%"
       },
@@ -112,6 +104,14 @@
         "name": "Bash",
         "level": "60%"
       }
+      {
+        "name": "PCB Design",
+        "level": "70%"
+      },
+      {
+        "name": "CAD",
+        "level": "60%"
+      },
     ]
   },
   "portfolio": {
@@ -121,6 +121,18 @@
         "category": "My Bachelor's Dissertation: Design and Implementation of a Single-Lead Chest Strap ECG Recorder for Stress Classification using Machine Learning Methods.",
         "image": "images/EEGRecordingDevice.png",
         "url": "files/bachelorsDissertation.pdf"
+      },
+      {
+        "title": "MASE: Machine-Learning Accelerator System Exploration Tools.",
+        "category": "Contributed to an open-source project that aims to combat the pace of development of ML software models which is much faster than accelerator design cycle, rendering many accelerators obsolete.",
+        "image": "images/MASE.png",
+        "url": "https://github.com/DeepWok/mase"
+      },
+      {
+        "title": "Design of a Self-Organising Multi-Agent System",
+        "category": "Working alongside 40+ students, I helped to lead the infrastructure team to design an environment for a Self-Organising Multi-Agent system to operate in, written in Go.",
+        "image": "images/SOMAS.jpg",
+        "url": "https://github.com/SOMAS2023/SOMAS2023"      
       },
       {
         "title": "PhoneCave",
@@ -147,12 +159,6 @@
         "url": "files/Modelling Techniques 2 Report.pdf"
       },
       {
-        "title": "Design of a Self-Organising Multi-Agent System",
-        "category": "Working alongside 40+ students, I helped to lead the infrastructure team to design an environment for a Self-Organising Multi-Agent system to operate in, written in Go.",
-        "image": "images/SOMAS.jpg",
-        "url": "https://github.com/SOMAS2023/SOMAS2023"      
-      },
-      {
         "title": "Project built for the STM32 using MBED-OS",
         "category": "Since most of my projects are kept under the hood in private repositories, I thought I'd share this Uni project which doesn't have any NDAs.",
         "image": "images/MBED-OS.png",
@@ -163,12 +169,6 @@
         "category": "My reasoning as to why electrification may be the grand reset for the automotive market.",
         "image": "images/EV.png",
         "url": "files/Why the Electrification of Vehicles Holds a Large Threat for the Survival of Legacy Automotive Companies.pdf"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "images/transparent.png",
-        "url":""
       },
       {
         "title": "DoorDash Labs - Robotics and Automation of Home Deliveries",
