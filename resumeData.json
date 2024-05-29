@@ -82,15 +82,15 @@
     "skills": [
       {
         "name": "Python",
-        "level": "70%"
+        "level": "85%"
       },
       {
-        "name": "TensorFlow / Pytorch",
+        "name": "Pytorch / TensorFlow",
         "level": "75%"
       },
       {
         "name": "C / C++ / Golang",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "MATLAB",
@@ -99,6 +99,10 @@
       {
         "name": "Web Dev (JS/ReactJS/HTML)",
         "level": "50%"
+      },
+      {
+        "name": "Cloud Computing (AWS)",
+        "level": "40%"
       },
       {
         "name": "Bash",
