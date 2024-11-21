@@ -127,6 +127,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Truly Modular Multimodal Stress Detection System.",
+        "category": "My Master's Thesis: Rethinking Stress Monitoring: Convenient Modular Early-Onset Multimodal Stress Detection with Attention Score Caching",
+        "image": "images/sliding-cached-multihead-attention.png",
+        "url": "https://github.com/WillPowellUk/Modular-Multimodal-Stress-Detector"
+      },
+      {
         "title": "EEG Recording Device with Machine Learning for Stress Classification.",
         "category": "My Bachelor's Dissertation: Design and Implementation of a Single-Lead Chest Strap ECG Recorder for Stress Classification using Machine Learning Methods.",
         "image": "images/EEGRecordingDevice.png",
