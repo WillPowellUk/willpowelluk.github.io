@@ -44,7 +44,7 @@
         "school": "Imperial College London",
         "degree": "Masters in Applied Machine Learning",
         "graduated": "September 2023 - Present",
-        "description": ""
+        "description": "Distinction with 80% overall, ranked in the top 5%. See the Portfolio section for my thesis."
       },
       {
         "school": "University Of Bath",
@@ -61,9 +61,15 @@
     ],
     "work": [
       {
+        "company": "Mixedbread",
+        "title": "Machine Learning Researcher Intern",
+        "years": "October 2024 - January 2025",
+        "description": "MixedBread in developing state-of-the-art embedding models with 15 million monthly downloads on Hugging Face, and widely adopted by industry leaders such as Google and IBM to help with retrieval and RAG. During my time at MixedBread, I have contributed to the research, training, and deployment of these multi-modal models, preparing for a SAAS product release."
+      },
+      {
         "company": "BrainPatch",
-        "title": "Product Development Contractor",
-        "years": "June 2021 - Present",
+        "title": "Research Engineer (Part-Time)",
+        "years": "June 2021 - September 2024",
         "description": "BrainPatch is a cutting-edge neurotech start-up aiming to create an app store for the brain. Through out my work at BrainPatch, I have designed a wireless EEG/ECG recording device, which involved designing the machine learning pipeline, software, firmware, and hardware to wirelessly stream EEG/ECG data to the cloud. I wrote firmware in C++ for remote data recording and streaming to a server and developed a web app in Python. I also implemented cloud computing and inference using AWS and SQL to process data and transmit it to a web interface in real time. The device was used in trials to monitor real-time participant biosensing information remotely and is will contribute to a commercial machine learning consumer product to detect stress, which was a focus of my Bachelor's Dissertation and now Master's thesis."
       },
       {
