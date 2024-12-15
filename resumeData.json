@@ -88,11 +88,15 @@
     "skills": [
       {
         "name": "Python",
-        "level": "85%"
+        "level": "90%"
       },
       {
-        "name": "Pytorch / TensorFlow",
-        "level": "75%"
+        "name": "Pytorch / JAX / TensorFlow",
+        "level": "80%"
+      },
+      {
+        "name": "Web Dev (FastAPI + PostgreSQL)",
+        "level": "60%"
       },
       {
         "name": "C / C++ / Golang",
@@ -103,16 +107,8 @@
         "level": "60%"
       },
       {
-        "name": "Databases (SQL / NoSQL)",
-        "level": "50%"
-      },
-      {
-        "name": "CloudOps (AWS)",
+        "name": "CloudOps (AWS, HPC, GPC)",
         "level": "40%"
-      },
-      {
-        "name": "Web Dev (JS/ReactJS/HTML)",
-        "level": "50%"
       },
       {
         "name": "PCB Design",
