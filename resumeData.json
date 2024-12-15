@@ -3,7 +3,7 @@
     "name": "Will Powell",
     "occupation": "ML Engineer (Ex-Mech/Elec).",
     "image": "ProfileNoBackground.png",
-    "bio": "I am currently pursuing an internship in Berlin as a Machine Learning Researcher at a startup focused on embedding models for retrieval and retrieval-augmented generation (RAG). I am consistently engaged in various projects and try to make an effort to keep them updated here.",
+    "bio": "I am currently pursuing an internship in Berlin as a Machine Learning Researcher at a startup focused on embedding models for retrieval and retrieval-augmented generation (RAG). I am consistently engaged in various projects and try to make an effort to keep them update to date here.",
     "contactmessage": "Contact me via email: ",
     "email": "me@willpowell.uk",
     "address": {
@@ -64,7 +64,7 @@
         "company": "Mixedbread",
         "title": "Machine Learning Researcher Intern",
         "years": "October 2024 - January 2025",
-        "description": "MixedBread in developing state-of-the-art embedding models with 15 million monthly downloads on Hugging Face, and widely adopted by industry leaders such as Google and IBM to help with retrieval and RAG. During my time at MixedBread, I have contributed to the research, training, and deployment of these multi-modal models, preparing for a SAAS product release."
+        "description": "MixedBread in developing state-of-the-art embedding models which account for 5% of all model downloads on Hugging Face, and widely adopted by industry leaders such as Google and IBM to help with retrieval and RAG. During my time at MixedBread, I contributed to the research, training, and deployment of these multi-modal models, preparing for a SAAS product release."
       },
       {
         "company": "BrainPatch",
