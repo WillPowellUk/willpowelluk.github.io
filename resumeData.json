@@ -3,7 +3,7 @@
     "name": "Will Powell",
     "occupation": "ML Engineer (Ex-Mech/Elec).",
     "image": "ProfileNoBackground.png",
-    "bio": "I am currently pursuing an internship in Berlin as a Machine Learning Researcher at a startup focused on embedding models for retrieval and retrieval-augmented generation (RAG). I am consistently engaged in various projects and try to make an effort to keep them update to date here.",
+    "bio": "I am a data scientist, currently building ML models, and integrating AI automations for a credit risk company. I am consistently engaged in various projects and try to make an effort to keep them update to date here.",
     "contactmessage": "Contact me via email: ",
     "email": "me@willpowell.uk",
     "address": {
@@ -44,13 +44,13 @@
         "school": "Imperial College London",
         "degree": "Masters in Applied Machine Learning",
         "graduated": "September 2023 - Present",
-        "description": "Distinction with 80% overall, ranked in the top 5%. See the Portfolio section for my thesis."
+        "description": "Distinction with Imperial College Outstanding Achievement Award and top of cohort. See the Portfolio section for my thesis."
       },
       {
         "school": "University Of Bath",
         "degree": "Bachelors in Integrated Mechanical and Electrical Engineering",
         "graduated": "September 2019 - June 2023",
-        "description": "First Class Honours with 75% overall. See the Portfolio section for my dissertation."
+        "description": "First Class Honours and top of cohort. See the Portfolio section for my dissertation."
       },
       {
         "school": "Sevenoaks School",
@@ -60,6 +60,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Lendable",
+        "title": "Data Scientist"
+        "years": "February 2025 - Present",
+        "Lendable is a highly innovative credit risk company that is rapidly growing in the UK and US markets for credit cards, unsecured loans, and auto loans. I’m working as a data scientist - building machine learning models to detect risk as well as integrating AI-driven automations for scalable operations."
+      }
       {
         "company": "Mixedbread",
         "title": "Machine Learning Researcher Intern",
